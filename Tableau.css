@@ -1,0 +1,16 @@
+
+#budgetEcole{
+    min-height: 200vh;
+    background-image: url(../wis-3-2020-vue/blanchetiere.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+}
+#budgetEcole h1{
+    text-align: center; 
+}
+#budgetEcole h2{
+    text-align: center; 
+}
+#budgetEcole h4{
+    text-align: center; 
+}
